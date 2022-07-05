@@ -2,7 +2,7 @@
 
 <p align="center">A newsletter signup page built with Node.js and Mailchimp API to register users in the Mailchimp server</p>
 
-<p align="center"><a href="https://alluring-crater-lake-77749.herokuapp.com/](https://alluring-crater-lake-77749.herokuapp.com/">Deployed App</a>
+<p align="center"><a href="https://alluring-crater-lake-77749.herokuapp.com/">Deployed App</a>
 
 ## 🛠️ Technologies
 
